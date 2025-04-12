@@ -1,0 +1,352 @@
+[2025-03-08 13:54:58] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (/usr/local/lib/node_modules/ts-node/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Object.require.extensions.<computed> [as .js] (/usr/local/lib/node_modules/ts-node/src/index.ts:1608:43)
+    at Module.load (node:internal/modules/cjs/loader:1205:32) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (/usr/local/lib/node_modules/ts-node/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Object.require.extensions.<computed> [as .js] (/usr/local/lib/node_modules/ts-node/src/index.ts:1608:43)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+[2025-03-08 13:55:02] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (/usr/local/lib/node_modules/ts-node/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Object.require.extensions.<computed> [as .js] (/usr/local/lib/node_modules/ts-node/src/index.ts:1608:43)
+    at Module.load (node:internal/modules/cjs/loader:1205:32) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (/usr/local/lib/node_modules/ts-node/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Object.require.extensions.<computed> [as .js] (/usr/local/lib/node_modules/ts-node/src/index.ts:1608:43)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+[2025-03-08 13:55:42] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+[2025-03-08 14:10:20] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+[2025-03-08 14:10:22] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+[2025-03-08 14:14:41] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+[2025-03-08 14:14:43] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+[2025-03-08 14:14:55] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+[2025-03-08 14:15:22] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (/usr/local/lib/node_modules/ts-node/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Object.require.extensions.<computed> [as .js] (/usr/local/lib/node_modules/ts-node/src/index.ts:1608:43)
+    at Module.load (node:internal/modules/cjs/loader:1205:32) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (/usr/local/lib/node_modules/ts-node/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Object.require.extensions.<computed> [as .js] (/usr/local/lib/node_modules/ts-node/src/index.ts:1608:43)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+[2025-03-08 14:22:29] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+[2025-03-08 14:22:32] ERROR: uncaughtException: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19) 
+Error: Cannot find module '../models/ticket'
+Require stack:
+- /home/container/events/interactionCreate.js
+- /home/container/index.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/container/events/interactionCreate.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
